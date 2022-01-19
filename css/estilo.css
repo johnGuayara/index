@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: lightyellow;
     font-family: Arial, Helvetica, sans-serif;
 }
 .pa-1{
@@ -10,4 +10,15 @@ body{
     width: 300px;
     background-color: lime;
     border-radius: 10%;
+}
+.container-2{
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 35%;
+    background-color: lightblue;
+    border-radius: 10%;
+}
+.pa-2{
+    color: lightgoldenrodyellow; 
 }
