@@ -25,3 +25,7 @@ body{
 .pa-2{
     color: black; 
 }
+.pa{
+    background-color: red;
+    color: yellowgreen
+}
